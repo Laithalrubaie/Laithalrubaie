@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Laith 👋
 
-<!--
-**Laithalrubaie/Laithalrubaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer from Iraq 🇮🇶
 
-Here are some ideas to get you started:
+Currently building production software at Corrsy using React, React Native, Next.js and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- TypeScript
+- React
+- React Native
+- Next.js
+- Node.js
+- MongoDB
+- Jest
+- Firebase
+
+## Currently Working On
+
+- Production web & mobile applications
+- AI-powered education tools
+- Improving testing and code quality
+
+## Featured Projects
+
+🚀 Helply
+
+🚀 AI Lesson Synchronization
+
+🚀 Production Reporting System
+
+## Connect
+
+- LinkedIn
+- Portfolio
+- Email
