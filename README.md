@@ -32,11 +32,11 @@ A self-taught software engineer dedicated to building high-impact products. Focu
 ### GitHub Stats
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=Laith-0&theme=tokyonight&hide_border=true" height="180" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Laithalrubaie&theme=tokyonight&hide_border=true" height="180" alt="streak" />
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laith-0&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution+Activity" alt="activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laithalrubaie&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution+Activity" alt="activity" />
 </p>
 
 ---
