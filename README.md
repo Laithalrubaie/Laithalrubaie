@@ -4,7 +4,6 @@
 <div align="center">
 
 <a href="https://github.com/Laith-0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=6366f1&center=true&vCenter=true&width=520&lines=React+Native+·+Next.js+·+Python;Building+the+future+at+Corrsy;Fortune+favours+the+bold." alt="typing" />
 </a>
 
 </div>
