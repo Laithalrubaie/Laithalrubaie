@@ -32,7 +32,7 @@ A self-taught software engineer dedicated to building high-impact products. Focu
 ### GitHub Stats
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=Laithalrubaie&theme=tokyonight&hide_border=true" height="180" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Laithalrubaie&theme=tokyonight&hide_border=true" height="180" alt="streak" width="100%" />
 </p>
 
 <p>
