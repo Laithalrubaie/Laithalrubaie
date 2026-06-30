@@ -1,5 +1,5 @@
 <!-- Header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=180&section=header&text=Laith%20Al-Rubaie&fontColor=ffffff&fontSize=58&animation=fadeIn&desc=Software%20Engineer&descSize=20&descAlignY=72" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=180&section=header&text=Laith%20Al-Rubaie&fontColor=ffffff&fontSize=58&animation=fadeIn&desc=Software%20Engineer&descSize=20&descAlignY=72" alt="header" width="100%" />
 
 <div align="center">
 
