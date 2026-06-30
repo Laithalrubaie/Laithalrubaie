@@ -19,8 +19,8 @@ A self-taught software engineer dedicated to building high-impact products. Focu
 - **Mobile & Web** — Crafting performant architectures, edge runtime optimizations, and smooth user interfaces.
 - **AI & Automation** — Deepening knowledge in Python and building intelligent, real-world workflows.
 
-<div align="center">
 ### Tech Stack
+<div align="center">
   <p>
     <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
