@@ -9,8 +9,8 @@ public class INFORMATION
 {
     public string NAME  = "Laith AlRubaie";
     public string TITLE = "Software Engineer";
-    public string EMAIL = "your.email@example.com";
-    public string[] LOCATION = { "City", "Country" };
+    public string EMAIL = "laith.alrubaie0@gmail.com";
+    public string[] LOCATION = { "City", "Iraq" };
 }
 ```
 
@@ -40,19 +40,17 @@ public enum TOOLS()
     Git,
     GitHub,
     Vercel,
-    Postman
+    Postman,
+    Docker
 }
 
 public enum MEDIA()
 {
     GitHub,
-    // github.com/your-username
+    // github.com/Laithalrubaie
 
     LinkedIn,
-    // linkedin.com/in/your-profile
-
-    Portfolio
-    // your-portfolio.com
+    // linkedin.com/in/theleo3
 }
 
 public enum PROFILE()
@@ -60,20 +58,7 @@ public enum PROFILE()
     CURIOUS,
     RELIABLE,
     DETAIL_ORIENTED,
-    TEAM_PLAYER
-}
-```
-
-```csharp
-public static class EXPERIENCE
-{
-    public void CurrentProject()
-    {
-        var _stack = new[] { "Next.js", "Node.js", "React" };
-        var _type  = new FullStackDev();
-
-        /* Short description of what you're building or have built —
-        one or two sentences about the project and your role in it. */
-    }
+    TEAM_PLAYER,
+    CAN_WEAR_ALOT_OF_HATS
 }
 ```
