@@ -1,5 +1,3 @@
-<img align="left" src="https://placehold.co/150x150?text=Photo" width="150" />
-
 ```csharp
 /// <summary>
 /// Software Engineer specialized in the JavaScript ecosystem.
