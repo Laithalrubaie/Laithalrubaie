@@ -10,7 +10,7 @@ public class INFORMATION
     public string NAME  = "Laith AlRubaie";
     public string TITLE = "Software Engineer";
     public string EMAIL = "laith.alrubaie0@gmail.com";
-    public string[] LOCATION = { "City", "Iraq" };
+    public string[] LOCATION = { "Baghdad", "Iraq" };
 }
 ```
 
